@@ -7,13 +7,13 @@
   box-sizing: border-box;
 }
 
-/* ===== Scrollbar CSS ===== */
+
   * {
     scrollbar-width: auto;
     scrollbar-color:$gradient1  $white;
   }
 
-  /* Chrome, Edge, and Safari */
+
   *::-webkit-scrollbar {
     width: 13px;
   }
